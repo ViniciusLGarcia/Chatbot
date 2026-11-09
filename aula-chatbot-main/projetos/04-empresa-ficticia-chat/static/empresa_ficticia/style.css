@@ -1,5 +1,5 @@
 body { font-family: 'Segoe UI', sans-serif; background: #f4f6f8; margin: 0; }
-    header, footer { background-color: #004aad; color: white; text-align: center; padding: 20px; }
+    header, footer { background-color: #b80000; color: rgb(35, 34, 34); text-align: center; padding: 20px; }
     main { padding: 40px; max-width: 800px; margin: auto; }
     h1 { color: #004aad; }
     #chatbot-toggle {

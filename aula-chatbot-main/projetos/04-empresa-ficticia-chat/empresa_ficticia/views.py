@@ -11,6 +11,7 @@ EXEMPLOS = [
     ("vocês trabalham com inteligência artificial?", "Sim! Temos soluções personalizadas em IA para sua empresa."),
     ("como entro em contato?", "Você pode nos contatar pelo e-mail contato@empresa.com ou pelo telefone (11) 99999-9999."),
     ("ajuda", "Claro! Pergunte algo ou clique em um dos botões para começar."),
+    ("qual o horário de atendimento?", "Atendemos de segunda a sexta, das 9h às 18h."),
 ]
 
 def index(request):
