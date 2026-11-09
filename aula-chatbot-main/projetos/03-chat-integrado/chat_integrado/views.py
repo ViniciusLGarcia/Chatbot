@@ -11,6 +11,7 @@ EXEMPLOS = [
     ("Vocês fazem entrega?", "Sim, fazemos entrega em toda a cidade."),
     ("Qual o telefone de contato?", "Nosso telefone é (11) 1234-5678."),
     ("Qual o endereço?", "Estamos localizados na Av. Central, 123, São Paulo - SP."),
+    ("qual o horário de atendimento?", "Atendemos de segunda a sexta, das 9h às 12h."),
 ]
 
 def index(request):
