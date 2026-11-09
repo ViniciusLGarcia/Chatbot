@@ -16,7 +16,8 @@ EXEMPLOS = [
     ("quais são os serviços oferecidos?", "Oferecemos desenvolvimento de software, consultoria em TI e soluções em nuvem."),
     ("vocês trabalham com inteligência artificial?", "Sim! Temos soluções personalizadas em IA para sua empresa."),
     ("como entro em contato?", "Você pode nos contatar pelo e-mail contato@empresa.com ou pelo telefone (11) 99999-9999."),
-    ("ajuda", "Claro! Pergunte algo ou clique em um dos botões para começar."),
+    ("ajuda", "Estou aqui para ajudar! Escolha um botão ou digite sua dúvida."),
+    ("qual o horário de atendimento?", "Atendemos de segunda a sexta, das 09h as 18h"),
 ]
 
 
